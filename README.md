@@ -17,5 +17,5 @@ Wykonane z polskiej wikliny, na drucie ocynkowanym 0,7 mm, łączone drutem ocyn
 Bolechówko pod Poznaniem.
 **UWAGA!** Poznań i okolice - montaż mat w cenie 6 zł za metr bieżący maty, w usłudze materiał montażowy ( opaski, drut ). Profesjonalne zamontowanie z gwarancją 24 miesiące!
 
-![zdj_1](https://remigiuszkocjan.github.io/assets/css/zdj1.jpeg)
-![zdj_2](https://remigiuszkocjan.github.io/assets/css/zdj2.jpeg)
+![zdj_1](https://remigiuszkocjan.github.io/assets/css/pic1.jpeg)
+![zdj_2](https://remigiuszkocjan.github.io/assets/css/pic2.jpeg)
