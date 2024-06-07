@@ -6,13 +6,13 @@ Wykonane z polskiej wikliny, na drucie ocynkowanym 0,7 mm, łączone drutem ocyn
 * 0.5 m wys x 3 m dł
 * 2m x cos tam
 
-<h3>Kontakt</h3>
+<h2>Kontakt</h2>
 
 +48 694724245
 
 **centrumwikliny@interia.eu**
 
-<h3>Odbiór</h3>
+<h2>Odbiór</h2>
 
 Bolechówko pod Poznaniem.
-UWAGA! Poznań i okolice - montaż mat w cenie 6 zł za metr bieżący maty, w usłudze materiał montażowy ( opaski, drut ). Profesjonalne zamontowanie z gwarancją 24 miesiące!
+**UWAGA!** Poznań i okolice - montaż mat w cenie 6 zł za metr bieżący maty, w usłudze materiał montażowy ( opaski, drut ). Profesjonalne zamontowanie z gwarancją 24 miesiące!
