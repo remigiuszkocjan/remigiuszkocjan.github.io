@@ -1,0 +1,35 @@
+---
+---
+@import "{{ site.theme }}";
+$myWidth: 680px;
+
+body {
+ background: #c0e8be
+}
+
+container {
+  width: $myWidth;
+}
+
+a {
+  color: #4b276b;
+}
+
+logo {
+    max-width: 25px;
+ }
+
+page-header {
+  color: #4f1806;
+  text-align: center;
+  background-color: #a048f0;
+}
+
+
+h2 {
+  color:#69311e;
+}
+
+h3, h4, h5, h6 {
+  color:#69311e;
+}
