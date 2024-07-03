@@ -19,12 +19,12 @@ Maty trzcinowe:
 
 ![zdj_1](https://remigiuszkocjan.github.io/assets/css/pic1.jpeg)
 ![zdj_2](https://remigiuszkocjan.github.io/assets/css/pic2.jpeg)
-![zdj_3](https://remigiuszkocjan.github.io/assets/css/pic3.jpeg)
-![zdj_4](https://remigiuszkocjan.github.io/assets/css/pic4.jpeg)
-![zdj_5](https://remigiuszkocjan.github.io/assets/css/pic5.jpeg)
-![zdj_6](https://remigiuszkocjan.github.io/assets/css/pic6.jpeg)
-![zdj_7](https://remigiuszkocjan.github.io/assets/css/pic7.jpeg)
-![zdj_8](https://remigiuszkocjan.github.io/assets/css/pic8.jpeg)
+![zdj_3](https://remigiuszkocjan.github.io/assets/css/pic3.jpg)
+![zdj_4](https://remigiuszkocjan.github.io/assets/css/pic4.jpg)
+![zdj_5](https://remigiuszkocjan.github.io/assets/css/pic5.jpg)
+![zdj_6](https://remigiuszkocjan.github.io/assets/css/pic6.jpg)
+![zdj_7](https://remigiuszkocjan.github.io/assets/css/pic7.jpg)
+![zdj_8](https://remigiuszkocjan.github.io/assets/css/pic8.jpg)
 
 <h2>Odbiór</h2>
 Bolechówko k/Poznania
