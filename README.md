@@ -9,6 +9,7 @@ Wykonane z polskiej wikliny i trzciny, na drucie ocynkowanym 0.7 mm, łączone d
 Maty wiklinowe:
 * wysokość: 100cm, 120cm, 140cm, 150cm, 160cm, 180cm, 200cm
 * długość: 300cm, 500cm 
+
 Maty trzcinowe: 
 * wysokość: 100cm, 120cm, 140cm, 150cm, 160cm, 180cm, 200cm
 * długość: 600cm
