@@ -20,7 +20,7 @@ Maty trzcinowe:
 
 +48 694724245
 
-**centrumwikliny@interia.eu**
+**steinbruk@interia.eu**
 
 <h2>Odbiór</h2>
 
