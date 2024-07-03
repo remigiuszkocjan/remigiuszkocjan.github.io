@@ -1,10 +1,20 @@
 
-Wykonane z polskiej wikliny, na drucie ocynkowanym 0,7 mm, łączone drutem ocynkowanym 0,4 mm. Maty gęsta, z sortowanej wikliny, trwałe i estetyczna. Zastosowanie zarówno na zewnątrz, jak i wewnątrz. 
+Wykonane z polskiej wikliny i trzciny, na drucie ocynkowanym 0.7 mm, łączone drutem ocynkowanym 0.4 mm. Maty gęste, z sortowanej wikliny, trwałe i estetyczna. Zastosowanie zarówno na zewnątrz, jak i wewnątrz. 
+
+<h2>Cena</h2>
+
+* wiklinowe 20 zł za m^2 
+* trzcinowe 10 zł za m^2 
 
 <h2>Rozmiary</h2>
 
-* 0.5 m wys x 3 m dł
-* 2m x cos tam
+Maty wiklinowe:
+* wysokość: 100cm, 120cm, 140cm, 150cm, 160cm, 180cm, 200cm
+* długość: 300cm, 500cm 
+
+Maty trzcinowe: 
+* wysokość: 100cm, 120cm, 140cm, 150cm, 160cm, 180cm, 200cm
+* długość: 600 cm
 
 <h2>Kontakt</h2>
 
