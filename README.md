@@ -25,7 +25,8 @@ Maty trzcinowe:
 ![zdj_5](https://remigiuszkocjan.github.io/assets/css/pic5.jpg)
 ![zdj_6](https://remigiuszkocjan.github.io/assets/css/pic6.jpg)
 ![zdj_7](https://remigiuszkocjan.github.io/assets/css/pic7.jpg)
-![zdj_8](https://remigiuszkocjan.github.io/assets/css/pic8.jpg)
+![zdj_9](https://remigiuszkocjan.github.io/assets/css/pic9.jpg)
+![zdj_10](https://remigiuszkocjan.github.io/assets/css/pic10.jpg)
 
 <h2>Odbiór</h2>
 Bolechówko k/Poznania
