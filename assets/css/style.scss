@@ -4,8 +4,17 @@
 $myWidth: 680px;
 
 body {
- background: #59b33b
+ background: 
 }
+
+body {
+ background-color: #59b33b;
+ font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+ color:#210804;
+ font-weight:400;
+}
+
+
 
 container {
   width: $myWidth;
@@ -27,7 +36,7 @@ page-header {
 
 
 h2 {
-  color:#69311e;
+  color:#3b140d;
 }
 
 h3, h4, h5, h6 {
