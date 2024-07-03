@@ -3,8 +3,8 @@ Wykonane z polskiej wikliny i trzciny, na drucie ocynkowanym 0.7 mm, łączone d
 
 <h2>Cena</h2>
 
-* wiklinowe 20 zł za m^2 
-* trzcinowe 10 zł za m^2 
+* maty wiklinowe: 20 zł za m^2 
+* maty trzcinowe: 10 zł za m^2 
 
 <h2>Rozmiary</h2>
 
